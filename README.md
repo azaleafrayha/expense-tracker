@@ -3,7 +3,7 @@
 A simple Python CLI tool to manage daily expenses. Built to practice working with data structures and functional programming in Python.
 
 ## Personal Tweak
-This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum. But I tweak the original code by adding error handling
+This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum. But I tweak the original code by adding error handling:
 
 * **Using try-except**: To validate so that the program doesn't error when the input is not a number.
 
