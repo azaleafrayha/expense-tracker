@@ -1,4 +1,4 @@
-# Expense Tracker
+# Expense Tracker (WIP)
 
 A simple Python CLI tool to manage daily expenses. Built to practice working with data structures and functional programming in Python.
 
