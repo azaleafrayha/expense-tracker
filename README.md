@@ -16,7 +16,11 @@ This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python
 ## Project Structure (TODO: ADD)
 Inside this repository, you will find:
 * `expense.py` — The main Python script that runs the expense tracker.
+* `ui_expense.py` — (streamlit)
+* `storage_py` — (json)
 * `README.md` — The documentation you are reading right now.
+* `requirements.txt` — ADD LATER
+* `.gitignore` — ADD LATER
 
 ## How It Works (TODO: SIMPLIFY)
 ```bash
