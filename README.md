@@ -1,10 +1,12 @@
 # Expense Tracker (WIP)
 
-A simple Python CLI tool to manage daily expenses. Built to practice working with data structures and functional programming in Python. In this project I added JSON and streamlit as the "UI" for the expense tracker rather than just a code in a terminal (but it still can be accessed in terminal as well.)
+A simple Python CLI tool to manage daily expenses. Built to practice working with data structures and functional programming in Python. 
 <br><br>
-This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum, and I added an error handling to the original code:
+This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum, and I tweak it by adding some changes to the original FCC script:
 
 * **Using try-except**: To validate so that the program doesn't error when the input is not a number.
+* **JSON**:
+* **Streamlit**:
 
 ## Features
 * **Dynamic Data Storage**: Utilizes a list of dictionaries to manage expense records efficiently.
@@ -22,7 +24,7 @@ Inside this repository, you will find:
 * `requirements.txt` — ADD LATER
 * `.gitignore` — ADD LATER
 
-## How It Works (TODO: SIMPLIFY)
+## How It Works (TODO: EXPLAIN THE MAIN PY, UI, JSON)
 ```bash
 User Input -> Main Loop -> Function Logic -> Expenses List (Data Store) -> UI Output
 ```
