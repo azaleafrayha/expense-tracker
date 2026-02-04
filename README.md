@@ -16,7 +16,6 @@ This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python
 * **Data Transformation**: Demonstrates effective use of higher order functions to calculate totals and extract specific categories from the dataset.
 
 ## Project Structure (TODO: ADD)
-Inside this repository, you will find:
 * `expense.py` — The main Python script that runs the expense tracker.
 * `ui_expense.py` — (streamlit)
 * `storage_py` — (json)
