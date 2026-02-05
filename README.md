@@ -8,7 +8,7 @@ This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python
 * **JSON**:
 * **Streamlit**:
 
-## Features
+## Features (TODO: TWEAK)
 * **Dynamic Data Storage**: Utilizes a list of dictionaries to manage expense records efficiently.
 * **Functional Programming**: By implementing Python's built-in `map()` and `filter()` functions combined with `lambda` expressions for streamlined data processing & filtering.
 * **Modular Design**: The codebase is organized into distinct, single-responsibility functions `(Add, Print, Total, Filter)` to ensure high maintainability and readability.
