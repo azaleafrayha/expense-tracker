@@ -15,13 +15,13 @@ This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python
 * **Interactive CLI Interface**: Features a robust command-line interface powered by a `while` loop, providing a seamless user experience for real time data entry and retrieval.
 * **Data Transformation**: Demonstrates effective use of higher order functions to calculate totals and extract specific categories from the dataset.
 
-## Project Structure (TODO: ADD)
+## Project Structure
 * `expense.py` — The main Python script that runs the expense tracker.
 * `ui_expense.py` — (streamlit)
 * `storage_py` — (json)
 * `README.md` — The documentation you are reading right now.
-* `requirements.txt` — ADD LATER
-* `.gitignore` — ADD LATER
+* `requirements.txt` — TODO: ADD LATER
+* `.gitignore` — TODO: ADD LATER
 
 ## How It Works (TODO: EXPLAIN THE MAIN PY, UI, JSON)
 ```bash
