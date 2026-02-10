@@ -7,6 +7,7 @@ This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python
 * **Using try-except**: To validate so that the program doesn't error when the input is not a number.
 * **JSON**:
 * **Streamlit**:
+* and more to go! (this project is still in progress..)
 
 ## Features (TODO: TWEAK)
 * **Dynamic Data Storage**: Utilizes a list of dictionaries to manage expense records efficiently.
