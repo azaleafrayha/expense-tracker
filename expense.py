@@ -1,9 +1,11 @@
 def add_expense(expenses, amount, category):
     expenses.append({'amount': amount, 'category': category})
     
-def print_expenses(expenses):
+def get_expenses(expenses):
+    result = []
     for expense in expenses:
-        print(f'Amount: {expense["amount"]}, Category: {expense["category"]}')
+        result.append(f'Amount: {expense["amount"]}, Category: {expense["category"]}')
+    return "\n".join(result)
     
 def total_expenses(expenses):
     return sum(map(lambda expense: expense['amount'], expenses))
@@ -34,7 +36,7 @@ def main():
 
         elif choice == '2':
             print('\nAll Expenses:')
-            print_expenses(expenses)
+            print(get_expenses(expenses))
     
         elif choice == '3':
             print('\nTotal Expenses: ', total_expenses(expenses))
@@ -43,7 +45,7 @@ def main():
             category = input('Enter category to filter: ')
             print(f'\nExpenses for {category}:')
             expenses_from_category = filter_expenses_by_category(expenses, category)
-            print_expenses(expenses_from_category)
+            print(get_expenses(expenses_from_category))
     
         elif choice == '5':
             print('Exiting the program.')
