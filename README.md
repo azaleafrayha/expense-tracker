@@ -1,4 +1,7 @@
 # Expense Tracker (WIP)
+Currently still learning about Streamlit, JSON and Pandas! Feedback is welcome.
+
+-----------
 
 A simple Python CLI tool to manage daily expenses. Built to practice working with data structures and functional programming in Python. 
 <br><br>
