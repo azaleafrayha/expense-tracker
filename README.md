@@ -5,7 +5,7 @@ Currently still learning about Streamlit, JSON and Pandas! Feedback is welcome.
 
 A simple Python CLI tool to manage daily expenses. Built to practice working with data structures and functional programming in Python. 
 <br><br>
-The main script is based on the FreeCodeCamp (FCC) Scientific Computing with Python curriculum and I added some changes to it by adding:
+The main script is based on the freeCodeCamp Scientific Computing with Python curriculum and I added some changes to it by adding:
 
 * `try-except`: To validate so that the program doesn't error when the input is not a number.
 * `JSON`:
