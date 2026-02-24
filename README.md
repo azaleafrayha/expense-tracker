@@ -1,4 +1,4 @@
-# Expense Tracker (WIP)
+# Expense Tracker (Pending Project)
 Currently still learning about Streamlit, JSON and Pandas! Feedback is welcome.
 
 -----------
